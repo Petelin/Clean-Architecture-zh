@@ -90,6 +90,11 @@ yarn docs:dev
     <td align="center"><a href="https://github.com/oldfatcrab"><img src="https://avatars2.githubusercontent.com/u/1563274?s=460&v=4" width="100px;" /><br /><sub><b>oldfatcrab</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/venthent"><img src="https://avatars2.githubusercontent.com/u/35421630?s=460&u=753b74ddd9c7df2bfa9c0833dccd821e15baac42&v=4" width="100px;" /><br /><sub><b>venthent</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ZhuPeng"><img src="https://avatars1.githubusercontent.com/u/4994339?s=460&u=5d9b3258f58b4e8df6e8906cee02a7529df3fa50&v=4" width="100px;" /><br /><sub><b>ZhuPeng</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/falconwoo"><img src="https://avatars2.githubusercontent.com/u/11451271?s=400&v=4" width="100px;" /><br /><sub><b>falconwoo</b></sub></a><br /></td>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/zerosoul"><img src="https://avatars0.githubusercontent.com/u/2985895?s=400&u=8f9efe4bde312c7935697c0b4024489c9913c26b&v=4" width="100px;" /><br /><sub><b>zerosoul</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/wuwen1030"><img src="https://avatars1.githubusercontent.com/u/3377567?s=460&u=495e60f96d9ac1ea3dedcd0651d2862cae2e3125&v=4" width="100px;" /><br /><sub><b>wuwen1030</b></sub></a><br /></td>
   </tr>
 </table>
 
