@@ -70,7 +70,7 @@ If you ask the business managers, they’ll often say that it’s more important
 
 You may not find this argument convincing. After all, there’s no such thing as a program that is impossible to change. However, there are systems that are practically impossible to change, because the cost of change exceeds the benefit of change. Many systems reach that point in some of their features or configurations.
 
-> 当然，上面的逻辑论断可能不足以说服大家，修改的。但是，现实中有一些系统确实无法更改，因为其变更实施的成本会远远超过变更带来的价值。你在实际工作中一定遇到过很多这样的例了。
+> 当然，上面的逻辑论断可能不足以说服大家。毕竟，现实中没有绝无可能修改的程序. 但是, 因为变更实施的成本会远远超过变更带来的价值, 所以有一些系统很难去修改。你在实际工作中一定遇到过很多这样的例了。
 
 If you ask the business managers if they want to be able to make changes, they’ll say that of course they do, but may then qualify their answer by noting that the current functionality is more important than any later flexibility. In contrast, if the business managers ask you for a change, and your estimated costs for that change are unaffordably high, the business managers will likely be furious that you allowed the system to get to the point where the change was impractical.
 
