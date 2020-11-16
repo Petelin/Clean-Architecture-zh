@@ -8,7 +8,7 @@ In 1988, Barbara Liskov wrote the following as a way of defining subtypes.
 
 What is wanted here is something like the following substitution property: If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behavior of P is unchanged when o1 is substituted for o2 then S is a subtype of T.[<sup>1</sup>](#footnote-1)
 
-> 这里需要的是一种可替换性：如果对于每个类型是 S 的对象 o1 都存在一个类型为 T 的对象 o2，能使操作 T 类型的程序 P 在用 o2 替换 o1 时行为保持不变，我们就可以将 S 称为 T 的子类型。[<sup>1</sup>](#footnote-1)
+> 这里需要的是一种可替换性：如果对于每个类型是 S 的对象 o1 都存在一个类型为 T 的对象 o2，能使操作 T 类型的程序 P 在用 o1 替换 o2 时行为保持不变，我们就可以将 S 称为 T 的子类型。[<sup>1</sup>](#footnote-1)
 
 To understand this idea, which is known as the Liskov Substitution Principle (LSP), let’s look at some examples.
 
